@@ -9763,6 +9763,11 @@
         "title": "Recent",
         "docs": "https://docs.rsshub.app/journal.html#ieee-xplore",
         "source": "/*"
+      },
+      {
+        "title": "Early Access Journal",
+        "docs": "https://docs.rsshub.app/journal.html#ieee-xplore",
+        "source": "/*"
       }
     ]
   },
@@ -18303,6 +18308,18 @@
           "/:channel/:id"
         ],
         "target": "/soundofhope/:channel/:id"
+      }
+    ]
+  },
+  "nfapp.southcn.com": {
+    "_name": "南方网",
+    ".": [
+      {
+        "title": "南方+",
+        "docs": "https://docs.rsshub.app/traditional-media.html#nan-fang-wang",
+        "source": [
+          "/"
+        ]
       }
     ]
   },
